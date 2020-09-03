@@ -48,6 +48,8 @@ p{
     background-repeat: no-repeat;
     background-position: center;
     height:1024px;
+    padding-lef:10px;
+    padding-right:10px
 }
 head.p1
 {
